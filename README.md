@@ -9,5 +9,7 @@ TTTTT       W   W       IIIII       L           Y   Y
 
 Book Horse is the Best Horse
 ```
-# book-horse-ASCII-art-code
-ASCII art with C language, to remember my princess
+# ASCII-for-dear-book-horse
+ASCII C language art
+
+To remember my princess!
