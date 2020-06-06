@@ -1,4 +1,4 @@
-## contains `system("Pause")`, an evil line that makes this code only able to be compiled on Windows
+# contains `system("Pause")`, an evil line that makes this code only able to be compiled on Windows
 
 # This was just a small work of fun, nothing special.
 The output:
