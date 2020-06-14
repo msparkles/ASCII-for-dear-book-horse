@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Mg138/ASCII-for-dear-book-horse/master/book.png">
+
 contains `system("Pause")`, an evil line that makes this code only able to be compiled on Windows
 
 ---
