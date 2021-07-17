@@ -19,5 +19,5 @@ TTTTT       W   W       IIIII       L           Y   Y
   T         W W W         I         L             Y
   T          W W        IIIII       LLLLL         Y
 
-Book Horse is the Best Horse
+Book Horse is Best Horse
 ```
