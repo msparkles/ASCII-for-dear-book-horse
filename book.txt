@@ -2,7 +2,7 @@ TTTTT	W   W	IIIII	L    	Y   Y
   T  	W   W	  I  	L    	 Y Y 
   T  	W W W	  I  	L    	  Y  
   T  	W W W	  I  	L    	  Y  
-  T   	 W W 	IIIII	LLLLL	  Y  
+  T    W W 	IIIII	LLLLL	  Y  
   
 11111	10001	11111	10000	10001
 00100	10001	00100	10000	01010

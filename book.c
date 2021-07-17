@@ -7,5 +7,5 @@ twilight =twi>>1; BUYBOOKS:       while(twi){               if(twilight     >=5)
 PAYFORBOOKS:while(twi) {if(       __<(twi<<3)               )goto  PAY;    else;break;                PAY:printf(      "%c",TWILY[twilight]
 [books]         &b?love:' '        );b>>=1;__               +=twi;goto     PAYFORBOOKS;               }BUY:love+=      (love=='T' ? 3:love=='W'?242
 :love==         'I'?3: love        =='L' ?13 :             251);printf       ("    ");                twilight=        twilight +twi; goto BUYBOOKS;}
-BACKTOSTORE: printf ("\n")           ;books+=twi;goto STORE;}printf(         "\nBook Horse is the Best Horse\n"        );system              ("Pause");}
+BACKTOSTORE: printf ("\n")           ;books+=twi;goto STORE;}printf(           "\nBook Horse is Best Horse\n"          );gets(              twi - 1);}
 int main(){twilight();}
